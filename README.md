@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cliffszz
 - 👀 I’m interested in basketalll
-- 🌱 I’m currently learning c++, python ang go
+- 🌱 I’m currently learning Go, C++ and Python
 
 <!---
 cliffszz/cliffszz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
